@@ -14,7 +14,7 @@ class BankAccount
   end
 
   def withdraw(amount)
-    if 
+    if @balance >= amount
       @balance -= amount
     end
   end
