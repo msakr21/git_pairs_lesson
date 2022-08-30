@@ -14,6 +14,10 @@ class BankAccount
   end
 
   def withdraw(amount)
+    if 
+      @balance 
+
+    end
 
   end
 
